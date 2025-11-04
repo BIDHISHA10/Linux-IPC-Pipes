@@ -23,9 +23,9 @@ Testing the C Program for the desired output.
 
 # PROGRAM:
 
-NAME:MARELLA HASINI
+NAME:GOGINENI BIDHISHA
 
-Registration number:212223240083
+Registration number:212223040048
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
 ```
